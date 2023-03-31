@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "835114408585",
+    "project_id": "home-shopping-app-1c72c",
+    "storage_bucket": "home-shopping-app-1c72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835114408585:android:69a35710801748e9050458",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835114408585-eig5tn333rcl8ve060t6vir4p63i0379.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE29K4GDtmPjq4LSByb90uyLzSaV2v8mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835114408585-eig5tn333rcl8ve060t6vir4p63i0379.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "835114408585-1510r48ohpdprcofn1uh3urjr348op95.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
